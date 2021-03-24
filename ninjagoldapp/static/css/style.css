@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Chango&display=swap');
+
+
+body{
+    margin: auto;
+    text-align: center;
+    background-image: url(../images/194482.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#box1{
+    background-image: url(../images/noun_Farm_1586098.png);
+    font-family:'Chango', cursive;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+}
+
+
+#box2{
+    background: url(../images/noun_cave_3681402.png);
+    font-family:'Chango', cursive;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    
+
+}
+#box3{
+    background: url(../images/noun_House_3806506.png);
+    font-family:'Chango', cursive;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+
+}
+#box4{
+    background: url(../images/noun_casino_3147827.png);
+    font-family:'Chango', cursive;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+
+}
+
+#activity_box{
+    background-color: black;
+    font-family:'Chango', cursive;
+    color: white;
+    width: 300px;
+    height: 300px;
+    overflow: auto;
+    margin:0 auto;
+    padding: 50px;
+
+}
+p{
+    color : white;
+}
+
+h1 {
+    font-family:'Chango', cursive;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: white;
+}
+
+.greentext {
+    color: green;
+}
+
+.redtext {
+    color: red;
+}
+
+.button {
+    margin-top: 20px;
+    transition-duration: 0.4s;
+    border-radius: 8px;
+    background-color: #4CAF50;
+
+}
